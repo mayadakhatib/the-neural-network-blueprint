@@ -1,0 +1,4 @@
+.*venv
+../neural_network_from_scratch/datasets/test
+../neural_network_from_scratch/datasets/train
+creating_dataset.ipynb
