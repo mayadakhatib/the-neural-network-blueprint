@@ -1,6 +1,7 @@
 .*venv
 creating_dataset.ipynb
+02_building_nn_from_scratch.ipynb
+01_building_nn_from_scratch.ipynb
 neural_network_from_scratch/datasets/test/
 neural_network_from_scratch/datasets/train/
 
-neural_network_from_scratch/02_building_nn_from_scratch.ipynb
